@@ -1,7 +1,7 @@
 Curso de Rust básico en Platzi
 
-src/main.rs -> Archivo con un videojuego textual a partir de un CSV.
-
+* src/main.rs -> Archivo con un videojuego textual a partir de un CSV.
+* resources/history.csv -> Archivo CSV para el videojuego de main.rs
 * learnings/* -> Todos los módulos que hice a lo largo del curso.
 * learnings/calculator.rs -> Una calculadora de multiplicación, división, suma y resta a partir de expresiones regulares.
 * learnings/calculator_2.rs -> Una calculadora de multiplicación, división, suma y resta a partir de una expresión regular y con mejor código que el modulo de calculator.rs
